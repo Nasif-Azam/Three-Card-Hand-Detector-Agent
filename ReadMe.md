@@ -1,23 +1,18 @@
-<h1 align="center">Three Card Hand Detector Agent</h1>
-<p>A Three Card Hand Detector Agent is an AI system that  designed and analyze to detecting hand consisting of playing cards in card games like poker, Teen Patti etc. It can automatically identifies and detecting the player's card hand by analyzing the image or  video representation of the cards.</p>
+# Three Card Hand Detector Agent
 
-<h2>Real-life Examples</h2>
-<li> Casino Automation
-<li> Online Gaming Platforms
-<li> Card Analysis Tools
+A Three Card Hand Detector Agent is an AI system designed to detect hands consisting of playing cards in card games like poker, Teen Patti, etc. It can automatically identify and detect the player's card hand by analyzing the image or video representation of the cards.
 
-<img align='center' alt='Coding' width='400' src='Results/Implementation.PNG'>
+## Real-life Examples
+- Casino Automation
+- Online Gaming Platforms
+- Card Analysis Tools
 
+## Implementation
+![Implementation](Results/Implementation.PNG)
 
-<h2>Implementation</h2>
-<ol>
-<li>Collect Image Dataset from Roboflow</li>
-<li>Model Training in google co-lab</li>
-<li>Required Package for Env Setup</li>
-<li>Three Card Game Logic Build-up</li>
-<li>Card Image Detection</li>
-<li>Card Detection Through Webcam</li>
-</ol>
-
-
- 
+## Results
+![Result 1](Results/Result-1.png)
+![Result 2](Results/Result-2.png)
+![Result 3](Results/Result-3.png)
+![Result 4](Results/Result-4.png)
+![Result 5](Results/Result-5.png)
