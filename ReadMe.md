@@ -1,6 +1,10 @@
 <h1 align="center">Three Card Hand Detector Agent</h1>
 
+<<<<<<< HEAD
 <p align="center">A Three Card Hand Detector Agent is an AI system designed to detect hands consisting of playing cards in card games like poker, Teen Patti, etc. It can automatically identify and detect the player's card hand by analyzing the image or video representation of the cards.</p>
+=======
+<p>A Three Card Hand Detector Agent is an AI system designed to detect hands consisting of playing cards in card games like poker, Teen Patti, etc. It can automatically identify and detect the player's card hand by analyzing the image or video representation of the cards.</p>
+>>>>>>> fd052f99c5abc51c15325c89ef4ea9093b2464f1
 
 ## Real-life Examples
 - Casino Automation
