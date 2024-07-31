@@ -6,7 +6,7 @@
 <li> Online Gaming Platforms
 <li> Card Analysis Tools
 
-<img align='center' alt='Coding' width='400' src='https://drive.google.com/file/d/1OBoJVlSXWjY20ZiDhQQIraXadtMnpE6H/view?usp=drive_link'>
+<img align='center' alt='Coding' width='400' src='Results/Implementation.PNG'>
 
 
 <h2>Implementation</h2>
