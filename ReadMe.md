@@ -1,6 +1,6 @@
-# Three Card Hand Detector Agent
+<h1 align="center">Three Card Hand Detector Agent</h1>
 
-A Three Card Hand Detector Agent is an AI system designed to detect hands consisting of playing cards in card games like poker, Teen Patti, etc. It can automatically identify and detect the player's card hand by analyzing the image or video representation of the cards.
+<p align="center">A Three Card Hand Detector Agent is an AI system designed to detect hands consisting of playing cards in card games like poker, Teen Patti, etc. It can automatically identify and detect the player's card hand by analyzing the image or video representation of the cards.</p>
 
 ## Real-life Examples
 - Casino Automation
@@ -8,17 +8,35 @@ A Three Card Hand Detector Agent is an AI system designed to detect hands consis
 - Card Analysis Tools
 
 ## Implementation
-![Implementation](Results/Implementation.PNG)
-*Implimentation Steps*
+<p align="center">
+  <img src="Results/Implementation.PNG" alt="Implementation">
+  <br>
+  <em>Figure 1: Implementation Process</em>
+</p>
 
 ## Results
-![Result 1](Results/Result-1.png)
-*Player-1*
-![Result 2](Results/Result-2.png)
-*Player-2*
-![Result 3](Results/Result-3.png)
-*Player-3*
-![Result 4](Results/Result-4.png)
-*Player-4*
-![Result 5](Results/Result-5.png)
-*Player-5*
+<p align="center">
+  <img src="Results/Result-1.png" alt="Result 1">
+  <br>
+  <em>Figure 2: Player-1</em>
+</p>
+<p align="center">
+  <img src="Results/Result-2.png" alt="Result 2">
+  <br>
+  <em>Figure 3: Player-2</em>
+</p>
+<p align="center">
+  <img src="Results/Result-3.png" alt="Result 3">
+  <br>
+  <em>Figure 4: Player-3</em>
+</p>
+<p align="center">
+  <img src="Results/Result-4.png" alt="Result 4">
+  <br>
+  <em>Figure 5: Player-4</em>
+</p>
+<p align="center">
+  <img src="Results/Result-5.png" alt="Result 5">
+  <br>
+  <em>Figure 6: Player-5</em>
+</p>
